@@ -1,1 +1,3 @@
-
+# HOW TO PRINT HELLO WORLD IN PYTHON
+print('Hello World')
+print("Hello World")
